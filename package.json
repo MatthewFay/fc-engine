@@ -1,14 +1,13 @@
 {
-  "name": "ranviermud",
-  "version": "2.0.0",
+  "name": "fc-engine",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shawncplus/ranviermud.git"
+    "url": "git://github.com/MatthewFay/fc-engine"
   },
   "engines": {
     "node": ">= 10.12.0"
   },
-  "license": "MIT",
   "scripts": {
     "start": "./ranvier -v --save=10 --respawn=10",
     "build-docs": "jsdoc -c jsdoc.conf",

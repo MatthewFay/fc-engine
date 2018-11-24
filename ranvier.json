@@ -1,9 +1,9 @@
 {
   "port": 4000,
   "bundles": [
+    "fc-areas",
     "ranvier-telnet",
     "ranvier-websocket",
-    "ranvier-areas",
     "ranvier-channels",
     "ranvier-commands",
     "ranvier-effects",
@@ -27,7 +27,7 @@
   "maxCharacters": 3,
   "allowMultiplay": false,
   "reportToAdmins": false,
-  "startingRoom": "limbo:white",
+  "startingRoom": "starzasuruth:start",
   "moveCommand": "move",
   "skillLag": 2000,
   "defaultMaxPlayerInventory": 16,

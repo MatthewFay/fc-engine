@@ -6,36 +6,51 @@
 - id: north-corridor-1
   title: North Corridor
   coordinates: [0, 1, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The walls have no decorations, built for functionality over appearance."
 
 - id: north-corridor-2
   title: North Corridor
   coordinates: [0, 2, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. To the east, you see an opening with a sign above that reads: \"TIMEKEEPERS.\""
+
+- id: timekeepers
+  title: Timekeepers
+  coordinates: [1, 2, 0]
+  description: "You are in a  circular shaped space full of different timekeepers for different planets and galaxies. You can't help but feel a sense of awe when you look around. A multiverse is an enormous place."
 
 - id: north-corridor-3
   title: North Corridor
   coordinates: [0, 3, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The walls have no decorations, built for functionality over appearance."
 
 - id: north-corridor-4
   title: North Corridor
   coordinates: [0, 4, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The walls have no decorations, built for functionality over appearance."
 
 - id: north-corridor-5
   title: North Corridor
   coordinates: [0, 5, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The walls here are tinged by dark red light instead of blue."
 
 - id: north-corridor-6
   title: North Corridor
   coordinates: [0, 6, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The walls here are tinged by dark red light instead of blue."
 
 - id: north-corridor-7
   title: North Corridor
   coordinates: [0, 7, 0]
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The walls here are tinged by dark red light instead of blue. You see entrances on both sides of you."
+
+- id: quiet-room
+  title: Quiet Room
+  coordinates: [-1, 7, 0]
+  description: "You find yourself in a dimly lit, quiet room. There is a soft vibration coming from the walls around you. Around the perimeter, there is a broad, cushioned bench for sleeping purposes."
+
+- id: north-corridor-7
+  title: North Corridor
+  coordinates: [1, 7, 0]
   description: ""
 
 - id: north-corridor-8
@@ -65,10 +80,5 @@
 
 # - id: hallway-north-2
 #   title: Gooplex Room
-#   coordinates: [0, 2, 0]
-#   description: "You are in the north hallway."
-
-# - id: hallway-north-2
-#   title: The Clock Room
 #   coordinates: [0, 2, 0]
 #   description: "You are in the north hallway."

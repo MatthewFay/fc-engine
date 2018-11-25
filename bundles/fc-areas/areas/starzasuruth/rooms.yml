@@ -48,24 +48,39 @@
   coordinates: [-1, 7, 0]
   description: "You find yourself in a dimly lit, quiet room. There is a soft vibration coming from the walls around you. Around the perimeter, there is a broad, cushioned bench for sleeping purposes."
 
-- id: north-corridor-7
-  title: North Corridor
+- id: north-side-room
+  title: A Side Room off the Corridor
   coordinates: [1, 7, 0]
-  description: ""
+  description: "This room is very dull. It's a grey, concrete area with a bench in the middle. The light is a little brighter than the hallway and is of a yellow tint."
 
 - id: north-corridor-8
   title: North Corridor
   coordinates: [0, 8, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The temperature here is warm."
 
 - id: north-corridor-9
   title: North Corridor
   coordinates: [0, 9, 0]
-  description: ""
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The temperature here is warm."
 
 - id: north-corridor-10
   title: North Corridor
   coordinates: [0, 10, 0]
+  description: "You are traveling in a large corridor on Starzasuruth. It runs from south to north. The temperature here is warm. You are amazed at how big this ship is."
+
+- id: north-corridor-11
+  title: North Corridor
+  coordinates: [0, 11, 0]
+  description: "The corridor gets significantly darker here, and the ceiling becomes a bit lower. You see exits on both sides."
+
+- id: dark-corridor-east-1
+  title: Dark Corridor
+  coordinates: [0, 11, 0]
+  description: "The corridor gets significantly darker here, and the ceiling becomes a bit lower."
+
+- id: eastern-corridor-1
+  title: Eastern Corridor
+  coordinates: [1, 0, 0]
   description: ""
 
 # - id: port-room

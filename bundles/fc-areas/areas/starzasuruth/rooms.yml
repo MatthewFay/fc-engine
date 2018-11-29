@@ -71,12 +71,72 @@
 - id: north-corridor-11
   title: North Corridor
   coordinates: [0, 11, 0]
-  description: "The corridor gets significantly darker here, and the ceiling becomes a bit lower. You see exits on both sides."
+  description: "The corridor gets significantly darker here, and the ceiling becomes a bit lower. You see exits on both sides, as well as to the north. The northern entry leads into a large well lit room. A sign above the entry states, \"DINING HALL.\""
 
 - id: dark-corridor-east-1
-  title: Dark Corridor
-  coordinates: [0, 11, 0]
-  description: "The corridor gets significantly darker here, and the ceiling becomes a bit lower."
+  title: Dark Corridor in Starzasuruth
+  coordinates: [1, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-east-2
+  title: Dark Corridor in Starzasuruth
+  coordinates: [2, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-east-3
+  title: Dark Corridor in Starzasuruth
+  coordinates: [3, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-east-4
+  title: Dark Corridor in Starzasuruth
+  coordinates: [4, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-east-5
+  title: Dark Corridor in Starzasuruth
+  coordinates: [5, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-east-6
+  title: Dark Corridor in Starzasuruth
+  coordinates: [6, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-west-1
+  title: Dark Corridor in Starzasuruth
+  coordinates: [-1, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-west-2
+  title: Dark Corridor in Starzasuruth
+  coordinates: [-2, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-west-3
+  title: Dark Corridor in Starzasuruth
+  coordinates: [-3, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-west-4
+  title: Dark Corridor in Starzasuruth
+  coordinates: [-4, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-west-5
+  title: Dark Corridor in Starzasuruth
+  coordinates: [-5, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dark-corridor-west-6
+  title: Dark Corridor in Starzasuruth
+  coordinates: [-6, 11, 0]
+  description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+
+- id: dining-hall
+  title: Dining Hall
+  coordinates: [0, 12, 0]
+  description: ""
 
 - id: eastern-corridor-1
   title: Eastern Corridor

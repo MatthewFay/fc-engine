@@ -133,9 +133,169 @@
   coordinates: [-6, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
 
-- id: dining-hall
+- id: dining-hall-1
   title: Dining Hall
   coordinates: [0, 12, 0]
+  description: "You have entered a large bright dining hall. Plates of food are everywhere, of all different colors. The aromas are tantalizing. The floor here is white and has an intricate design."
+
+- id: dining-hall-2
+  title: Dining Hall
+  coordinates: [-1, 12, 0]
+  description: "Along the wall lie kegs of liquid, most likely a type of mushroom spirit. The intricate design of the floor captivates you when you look down."
+
+- id: dining-hall-3
+  title: Dining Hall
+  coordinates: [-2, 12, 0]
+  description: "The bright lights only make the food that surrounds you look better and tastier. There is a large chandelier above you here, filled with a type of colorful gas."
+
+- id: dining-hall-4
+  title: Dining Hall
+  coordinates: [-3, 12, 0]
+  description: "You are going along the dining hall, staring at various dishes. The bright light bounces off the floor, creating a strong reflection. The pattern repeats, mesmerizing."
+
+- id: dining-hall-5
+  title: Dining Hall
+  coordinates: [-4, 12, 0]
+  description: "You are going along the dining hall, staring at various dishes. The bright light bounces off the floor, creating a strong reflection. The pattern repeats, mesmerizing."
+
+- id: dining-hall-6
+  title: Dining Hall
+  coordinates: [-5, 12, 0]
+  description: "You are going along the dining hall, staring at various dishes. The bright light bounces off the floor, creating a strong reflection. The pattern repeats, mesmerizing."
+
+- id: dining-hall-7
+  title: Dining Hall
+  coordinates: [1, 12, 0]
+  description: "This side of the dining hall feels hotter than the other. A glance reveals a plasma heater in the center. It oozes out heat, keeping sentients happy. Homeostasis is tough."
+
+- id: dining-hall-8
+  title: Dining Hall
+  coordinates: [2, 12, 0]
+  description: "The white floor continues its mesmerizing pattern. If you look down too long, you feel like you'd fall over. It is very shiny and clean."
+
+- id: dining-hall-9
+  title: Dining Hall
+  coordinates: [3, 12, 0]
+  description: "This area of the dining hall is a little less bright, due to there being a type of tree growing up through the floor. It has a beautiful black trunk and leaves of a dark brown. It feels good to be underneath."
+
+- id: dining-hall-10
+  title: Dining Hall
+  coordinates: [4, 12, 0]
+  description: ""
+
+- id: dining-hall-11
+  title: Dining Hall
+  coordinates: [5, 12, 0]
+  description: ""
+
+- id: dining-hall-12
+  title: Dining Hall
+  coordinates: [0, 13, 0]
+  description: ""
+
+- id: dining-hall-13
+  title: Dining Hall
+  coordinates: [-1, 13, 0]
+  description: ""
+
+- id: dining-hall-14
+  title: Dining Hall
+  coordinates: [-2, 13, 0]
+  description: ""
+
+- id: dining-hall-15
+  title: Dining Hall
+  coordinates: [-3, 13, 0]
+  description: ""
+
+- id: dining-hall-16
+  title: Dining Hall
+  coordinates: [-4, 13, 0]
+  description: ""
+
+- id: dining-hall-17
+  title: Dining Hall
+  coordinates: [-5, 13, 0]
+  description: ""
+
+- id: dining-hall-18
+  title: Dining Hall
+  coordinates: [1, 13, 0]
+  description: ""
+
+- id: dining-hall-19
+  title: Dining Hall
+  coordinates: [2, 13, 0]
+  description: ""
+
+- id: dining-hall-20
+  title: Dining Hall
+  coordinates: [3, 13, 0]
+  description: ""
+
+- id: dining-hall-21
+  title: Dining Hall
+  coordinates: [4, 13, 0]
+  description: ""
+
+- id: dining-hall-22
+  title: Dining Hall
+  coordinates: [5, 13, 0]
+  description: ""
+
+- id: dining-hall-23
+  title: Dining Hall
+  coordinates: [0, 14, 0]
+  description: ""
+
+- id: dining-hall-24
+  title: Dining Hall
+  coordinates: [-1, 14, 0]
+  description: ""
+
+- id: dining-hall-25
+  title: Dining Hall
+  coordinates: [-2, 14, 0]
+  description: ""
+
+- id: dining-hall-26
+  title: Dining Hall
+  coordinates: [-3, 14, 0]
+  description: ""
+
+- id: dining-hall-27
+  title: Dining Hall
+  coordinates: [-4, 14, 0]
+  description: ""
+
+- id: dining-hall-28
+  title: Dining Hall
+  coordinates: [-5, 14, 0]
+  description: ""
+
+- id: dining-hall-29
+  title: Dining Hall
+  coordinates: [1, 14, 0]
+  description: ""
+
+- id: dining-hall-30
+  title: Dining Hall
+  coordinates: [2, 14, 0]
+  description: ""
+
+- id: dining-hall-31
+  title: Dining Hall
+  coordinates: [3, 14, 0]
+  description: ""
+
+- id: dining-hall-32
+  title: Dining Hall
+  coordinates: [4, 14, 0]
+  description: ""
+
+- id: dining-hall-33
+  title: Dining Hall
+  coordinates: [5, 14, 0]
   description: ""
 
 - id: eastern-corridor-1

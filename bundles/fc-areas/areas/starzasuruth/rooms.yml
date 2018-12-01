@@ -174,9 +174,9 @@
   description: "The white floor continues its mesmerizing pattern. If you look down too long, you feel like you'd fall over. It is very shiny and clean."
 
 - id: dining-hall-9
-  title: Dining Hall
+  title: Underneath a Tree in the Dining Hall
   coordinates: [3, 12, 0]
-  description: "This area of the dining hall is a little less bright, due to there being a type of tree growing up through the floor. It has a beautiful black trunk and leaves of a dark brown. It feels good to be underneath."
+  description: "This area of the dining hall is a little less bright, due to there being a type of tree growing up through the floor. It has a beautiful black trunk and leaves of a dark brown. The air here feels crisp and refreshing."
 
 - id: dining-hall-10
   title: Dining Hall

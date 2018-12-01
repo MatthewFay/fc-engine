@@ -181,17 +181,17 @@
 - id: dining-hall-10
   title: Dining Hall
   coordinates: [4, 12, 0]
-  description: ""
+  description: "The dining hall continues in this direction. The floor here feels a little slippery; perhaps there was a spill. The smell of good food permeates the air."
 
 - id: dining-hall-11
   title: Dining Hall
   coordinates: [5, 12, 0]
-  description: ""
+  description: "The wall hither is lined with yellow pipes. In reality, the liquid inside of them is yellow. You recognize it as a type of fermented ale. There are two large spouts on either side of the pipes. They are both locked with a chain."
 
 - id: dining-hall-12
   title: Dining Hall
   coordinates: [0, 13, 0]
-  description: ""
+  description: "You are in the very center of the dining hall. Looking around, you are amazed at what you see. Aromas of all sorts fill the air. Off to the southeast, you see a large tree growing from the floor."
 
 - id: dining-hall-13
   title: Dining Hall

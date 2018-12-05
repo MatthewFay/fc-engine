@@ -75,63 +75,107 @@
 
 - id: dark-corridor-east-1
   title: Dark Corridor in Starzasuruth
-  coordinates: [1, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-east-2"
+      direction: east
+    - roomId: "starzasuruth:north-corridor-11"
+      direction: west
 
 - id: dark-corridor-east-2
   title: Dark Corridor in Starzasuruth
-  coordinates: [2, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-east-3"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-east-1"
+      direction: west
 
 - id: dark-corridor-east-3
   title: Dark Corridor in Starzasuruth
-  coordinates: [3, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-east-4"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-east-2"
+      direction: west
 
 - id: dark-corridor-east-4
   title: Dark Corridor in Starzasuruth
-  coordinates: [4, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-east-5"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-east-3"
+      direction: west
 
 - id: dark-corridor-east-5
   title: Dark Corridor in Starzasuruth
-  coordinates: [5, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-east-6"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-east-4"
+      direction: west
 
 - id: dark-corridor-east-6
   title: Dark Corridor in Starzasuruth
-  coordinates: [6, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-east-5"
+      direction: west
 
 - id: dark-corridor-west-1
   title: Dark Corridor in Starzasuruth
-  coordinates: [-1, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:north-corridor-11"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-west-2"
+      direction: west
 
 - id: dark-corridor-west-2
   title: Dark Corridor in Starzasuruth
-  coordinates: [-2, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-west-1"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-west-3"
+      direction: west
 
 - id: dark-corridor-west-3
   title: Dark Corridor in Starzasuruth
-  coordinates: [-3, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-west-2"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-west-4"
+      direction: west
 
 - id: dark-corridor-west-4
   title: Dark Corridor in Starzasuruth
-  coordinates: [-4, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-west-3"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-west-5"
+      direction: west
 
 - id: dark-corridor-west-5
   title: Dark Corridor in Starzasuruth
-  coordinates: [-5, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-west-4"
+      direction: east
+    - roomId: "starzasuruth:dark-corridor-west-6"
+      direction: west
 
 - id: dark-corridor-west-6
   title: Dark Corridor in Starzasuruth
-  coordinates: [-6, 11, 0]
   description: "You are in a somewhat dark corridor, where the only light comes from small red bulbs embedded along both walls. At various points along the ceiling, you notice raw pipes and electrical wire."
+  exits:
+    - roomId: "starzasuruth:dark-corridor-west-5"
+      direction: east
 
 - id: dining-hall-1
   title: Dining Hall
@@ -189,59 +233,59 @@
   description: "The wall hither is lined with yellow pipes. In reality, the liquid inside of them is yellow. You recognize it as a type of fermented ale. There are two large spouts on either side of the pipes. They are both locked with a chain."
 
 - id: dining-hall-12
-  title: Dining Hall
+  title: 	Center of the Dining Hall
   coordinates: [0, 13, 0]
   description: "You are in the very center of the dining hall. Looking around, you are amazed at what you see. Aromas of all sorts fill the air. Off to the southeast, you see a large tree growing from the floor."
 
 - id: dining-hall-13
   title: Dining Hall
   coordinates: [-1, 13, 0]
-  description: ""
+  description: "You are almost in the center of the dining hall. There are large plates of food on tables around you. The tables were designed to appear like naturally formed volcanic rock, with different textures and colors. The lights illuminate them, making them gleam."
 
 - id: dining-hall-14
-  title: Dining Hall
+  title: Statue in the Dining Hall
   coordinates: [-2, 13, 0]
-  description: ""
+  description: "You come upon a statue, one of the soldiers that died in the Trial Wars. A hero of war, she allegedly saved hundreds of lives. "A LEGENDARY SNIPER AND WARRIOR," and her name below that, \"GOLDEN WINTERSTAR.\""
 
 - id: dining-hall-15
   title: Dining Hall
   coordinates: [-3, 13, 0]
-  description: ""
+  description: "The white floor continues its mesmerizing pattern. If you look down too long, you feel like you'd fall over. It is very shiny and clean."
 
 - id: dining-hall-16
   title: Dining Hall
   coordinates: [-4, 13, 0]
-  description: ""
+  description: "The dining hall is large and bright. You are impressed with the array of foods that are on presentation. The tables, with their darkness, make the food pop out more under the lights."
 
 - id: dining-hall-17
-  title: Dining Hall
+  title: Mushroom Garden in the Dining Hall
   coordinates: [-5, 13, 0]
-  description: ""
+  description: "On this end of the dining hall, there is a garden of mushrooms. They smell quite strongly, and some look poisonous. Rows upon rows, they grow up from various soils. One of the mushrooms is roughly nine feet tall."
 
 - id: dining-hall-18
   title: Dining Hall
   coordinates: [1, 13, 0]
-  description: ""
+  description: "You are almost in the center of the dining hall. There are large plates of food on tables around you. The tables were designed to appear like naturally formed volcanic rock, with different textures and colors. The lights illuminate them, making them gleam."
 
 - id: dining-hall-19
   title: Dining Hall
   coordinates: [2, 13, 0]
-  description: ""
+  description: "The dining hall continues in this direction. It is rather large and smells strongly of different foods."
 
 - id: dining-hall-20
   title: Dining Hall
   coordinates: [3, 13, 0]
-  description: ""
+  description: "The dining hall continues in this direction. It is rather large and smells strongly of different foods."
 
 - id: dining-hall-21
   title: Dining Hall
   coordinates: [4, 13, 0]
-  description: ""
+  description: "The dining hall continues in this direction. Towards the east, you see a painting on the wall. It looks to be of a planet. The floor's pattern continues, mesmerizing."
 
 - id: dining-hall-22
   title: Dining Hall
   coordinates: [5, 13, 0]
-  description: ""
+  description: "On this end of the dining hall, there is a large painting hung upon the wall. It is of an orange planet with a dusty asteroid belt. The paint itself gives off a radiant glow. It is an enlivening piece."
 
 - id: dining-hall-23
   title: Dining Hall

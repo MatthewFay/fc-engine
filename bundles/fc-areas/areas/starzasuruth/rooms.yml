@@ -342,13 +342,13 @@
   coordinates: [5, 14, 0]
   description: "At this end of the dining hall, there is a black circle on the floor with a radius of about one meter. In the middle is a gold and red letter S, presumably for Starzasuruth."
 
-- id: dining-hall-33
-  title: Dining Hall
+- id: north-corridor-15
+  title: North Corridor Near the Dining Hall
   coordinates: [0, 15, 0]
-  description: ""
+  description: "You are in a large bright corridor that runs from north to south. There is some air movement here as if there is a vent nearby."
 
-- id: dining-hall-33
-  title: Dining Hall
+- id: north-corridor-16
+  title: North Corridor
   coordinates: [0, 16, 0]
   description: ""
 
@@ -359,15 +359,15 @@
 
 # - id: port-room
 #   title: Port Room
-#   coordinates: [0, 1, 0]
+#   coordinates: []
 #   description: ""
 
-# - id: hallway-north-2
+# - id: death-room
 #   title: Death Room
-#   coordinates: [0, 2, 0]
-#   description: "You are in the north hallway."
+#   coordinates: []
+#   description: ""
 
-# - id: hallway-north-2
+# - id: gooplex-room
 #   title: Gooplex Room
-#   coordinates: [0, 2, 0]
-#   description: "You are in the north hallway."
+#   coordinates: []
+#   description: ""
